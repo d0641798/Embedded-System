@@ -1,3 +1,3 @@
 # Embedded System
 
-![label](媒體1MOV)
+![label](媒體1.MOV)
